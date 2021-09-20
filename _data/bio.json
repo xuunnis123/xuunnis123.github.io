@@ -1,39 +1,43 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Ezra Lin | 林季陽",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://xuunnis123.github.io/images/ezra_lin.png",
+    "email": "xuunnis123@gmail.com",
+    "website": "https://xuunnis123.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the National Central University. Take comfort to contact to me.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "address": "工程五館 KSLab",
+      "postalCode": "320",
+      "city": "Taoyuan City",
+      "countryCode": "Taiwan",
+      "region": "Taoyuan City"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "xuunnis123",
+        "url": "http://github.com/xuunnis123"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Ji-Yang Lin",
+        "url": "https://linkedin.com/in/ji-yanglin"
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "network": "Medium",
+        "username": "xuunnis1011",
+        "url": "https://medium.com/@xuunnis1011"
+      },
+      {
+        "network": "HackMD",
+        "username": "Ezra Lin",
+        "url": "https://hackmd.io/@EzraLin"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "xuunnis1011",
+        "url": "http://instagram.com/xuunnis1011"
       }
     ]
   },
@@ -61,12 +65,18 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
+        "Python",
         "C",
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Swift",
+        "Django",
+        "ReactJS",
+        "Spring MVC",
+        "Flask",
+        "FastAPI",
+        "SQL/NoSQL"
       ]
     },
     {
@@ -76,88 +86,97 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Jenkins",
+        "Docker",
+        "SVN",
+        "Jira",
+        "AWS"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "National Central University, Taiwan",
+      "area": "Computer Science (expected Summer, 2022)",
+      "studyType": "M.S.",
+      "startDate": "2021-09-01",
       "endDate": "Present",
       "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "National Taiwan Ocean University, Taiwan",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2015-09-01",
+      "endDate": "2019-01-31",
+      "gpa": "3.6/4.0",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Rogers AI",
+      "position": "Web and Software programming Intern",
+      "startDate": "2021-03",
+      "endDate": "2021-06",
+      "summary": "Designed and developed a brand-new feature code for register key generated and validated.Learned the facial detected and identified knowledge.Collaborate with peers to develop new features.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Python",
+        "software development","co-work","FastAPI",
+        "Docker","AWS","GitLab","Computer Vision"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Applications Developing Dept. in Lianhwa Foods Corporation",
+      "position": "Software engineer",
+      "startDate": "2019-04",
+      "endDate": "2020-03",
+      "summary": "Responsible for developing about financial affairs system, factory management system, and processes as per the requirement for affairs within the company.-Collaborated with other developers on designing, developing, testing, and implementing new JSP pages, HTML pages, some full- stack websites with Liferay MVC framework, databases and Servlets.-Assisted with peers in the improvement of software and performed error analysis.-Maintained company website and using own knowledge and experience resolved any problematic issues.-Participated in weekly team meetings with managers; provided drafts and reports on progress of the projects.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "software development", "full-stack website", "git/SVN", "Jira", "Java", "Bootstrap", "SQL", "database", "Liferay framework"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "嘉義縣仁合慈善會",
+      "position": "Website Developer",
+      "startDate": "2021-07",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Volunteer in Developing Website for this charity organization",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Volunteer","ReactJS","Django","Program Manage","SPA","UI/UX"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "科技部高中生寒假人文及社會科學營",
+      "position": "Vice President",
+      "startDate": "2016",
+      "endDate": "2017",
+      "summary": "Co-work with others to host a high school student's camp about Humanities and Social Science. ",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Co-work",
+        "Leadership",
+        "Volunteer"
       ]
     }
+    
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Valedictorian-Graduation in Ceremony",
+      "date": "2019",
+      "awarder": "",
+      "summary": "With great performance in B.S, represent for classes to get this award. "
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Fourth place",
+      "date": "2018",
+      "awarder": "Smart technologies Innovation and Pioneer competition",
+      "summary": "My team won fourth place of fourteen teams in 2018."
     }
   ],
   "references": [
