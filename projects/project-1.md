@@ -1,16 +1,17 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
+image: images/volcanomap.png
+title: Volcano and Population Map
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2020-07-01
+date: 2020-08-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Python
+  - Folium
+  - Data Visualization
+  - Panda
+summary: Editing
 ---
 <div class="ui small rounded images">
   <img class="ui image" src="../images/micromouse-robot.png">

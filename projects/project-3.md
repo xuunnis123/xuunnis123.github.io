@@ -1,14 +1,16 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
+image: images/invoice.png
+title: Invoice Analyze
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2019-04-12
+date: 2019-01-10
 labels:
-  - Lisp
-  - GitHub
+  - Python
+  - Tkinter
+  - Numpy
+  - matplotlib
 summary: A text adventure game I developed for ICS 313.
 ---
 `<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">`
@@ -56,4 +58,4 @@ The corridor is lit with the candle. It is so long that you cannot see to the en
 
 <hr>
 
-Source: `<a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon ">``</i>`jogarces/ics-313-text-game`</a>`
+Source: `<a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon ">``</i>`jogarces/ics-313-text-game `</a>`
