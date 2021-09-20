@@ -11,7 +11,7 @@ labels:
   - Tkinter
   - Numpy
   - matplotlib
-summary: A text adventure game I developed for ICS 313.
+summary: Editing.
 ---
 `<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">`
 
